@@ -1,8 +1,5 @@
 ## Hi all! :love_you_gesture:
-I am  a software developer who loves to learn new things.
-
-Currently working on:
-- Creating my portfolio
+Find me behind the keyboard ⌨️
 
 [![Alberto Herrera's GitHub stats](https://github-readme-stats-albertoherreravargas.vercel.app/api?username=alberturria&hide=stars&count_private=true&show_icons=true&theme=blueberry)](https://github.com/alberturria/github-readme-stats)
 
