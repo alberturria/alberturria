@@ -1,6 +1,5 @@
-## Hi all! :love_you_gesture:
-Find me behind the keyboard ⌨️
+![JTHf](https://github.com/user-attachments/assets/cc9a8489-0c48-4e14-beb2-5c136f933672)
 
 [![Alberto Herrera's GitHub stats](https://github-readme-stats-albertoherreravargas.vercel.app/api?username=alberturria&hide=stars&count_private=true&show_icons=true&theme=blueberry)](https://github.com/alberturria/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alberturria&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=onedark&no-frame=true&margin-w=25&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
